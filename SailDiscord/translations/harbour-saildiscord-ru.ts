@@ -737,7 +737,7 @@
         <location filename="../qml/pages/AboutUserPage.qml" line="104"/>
         <source>(Phone)</source>
         <comment>Used with e.g. Online (Phone)</comment>
-        <translation>(телефон)</translation>
+        <translation>(Телефон)</translation>
     </message>
 </context>
 </TS>
